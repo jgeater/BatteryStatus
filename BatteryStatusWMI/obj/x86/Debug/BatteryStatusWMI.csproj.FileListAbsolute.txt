@@ -1,0 +1,17 @@
+D:\My Programming\BatteryStatusWMI\BatteryStatusWMI\bin\Debug\BatteryStatusWMI.exe
+D:\My Programming\BatteryStatusWMI\BatteryStatusWMI\bin\Debug\BatteryStatusWMI.pdb
+D:\My Programming\BatteryStatusWMI\BatteryStatusWMI\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\My Programming\BatteryStatusWMI\BatteryStatusWMI\obj\x86\Debug\BatteryStatusWMI.Form1.resources
+D:\My Programming\BatteryStatusWMI\BatteryStatusWMI\obj\x86\Debug\BatteryStatusWMI.Properties.Resources.resources
+D:\My Programming\BatteryStatusWMI\BatteryStatusWMI\obj\x86\Debug\GenerateResource-ResGen.read.1.tlog
+D:\My Programming\BatteryStatusWMI\BatteryStatusWMI\obj\x86\Debug\GenerateResource-ResGen.write.1.tlog
+D:\My Programming\BatteryStatusWMI\BatteryStatusWMI\obj\x86\Debug\BatteryStatusWMI.exe
+D:\My Programming\BatteryStatusWMI\BatteryStatusWMI\obj\x86\Debug\BatteryStatusWMI.pdb
+C:\Users\jgeau\Desktop\BatteryStatusWMI\BatteryStatusWMI\obj\x86\Debug\BatteryStatusWMI.exe
+C:\Users\jgeau\Desktop\BatteryStatusWMI\BatteryStatusWMI\obj\x86\Debug\BatteryStatusWMI.pdb
+C:\Users\jgeau\Desktop\BatteryStatusWMI\BatteryStatusWMI\bin\Debug\BatteryStatusWMI.exe
+C:\Users\jgeau\Desktop\BatteryStatusWMI\BatteryStatusWMI\bin\Debug\BatteryStatusWMI.pdb
+C:\Users\jgeau\Desktop\BatteryStatusWMI\BatteryStatusWMI\obj\x86\Debug\BatteryStatusWMI.csprojResolveAssemblyReference.cache
+C:\Users\jgeau\Desktop\BatteryStatusWMI\BatteryStatusWMI\obj\x86\Debug\BatteryStatusWMI.Form1.resources
+C:\Users\jgeau\Desktop\BatteryStatusWMI\BatteryStatusWMI\obj\x86\Debug\BatteryStatusWMI.Properties.Resources.resources
+C:\Users\jgeau\Desktop\BatteryStatusWMI\BatteryStatusWMI\obj\x86\Debug\BatteryStatusWMI.csproj.GenerateResource.Cache

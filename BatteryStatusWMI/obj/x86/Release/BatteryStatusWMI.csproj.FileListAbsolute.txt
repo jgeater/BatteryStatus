@@ -1,0 +1,7 @@
+C:\Users\jgeau\Desktop\BatteryStatusWMI\BatteryStatusWMI\bin\Release\BatteryStatusWMI.exe
+C:\Users\jgeau\Desktop\BatteryStatusWMI\BatteryStatusWMI\bin\Release\BatteryStatusWMI.pdb
+C:\Users\jgeau\Desktop\BatteryStatusWMI\BatteryStatusWMI\obj\x86\Release\BatteryStatusWMI.Form1.resources
+C:\Users\jgeau\Desktop\BatteryStatusWMI\BatteryStatusWMI\obj\x86\Release\BatteryStatusWMI.Properties.Resources.resources
+C:\Users\jgeau\Desktop\BatteryStatusWMI\BatteryStatusWMI\obj\x86\Release\BatteryStatusWMI.csproj.GenerateResource.Cache
+C:\Users\jgeau\Desktop\BatteryStatusWMI\BatteryStatusWMI\obj\x86\Release\BatteryStatusWMI.exe
+C:\Users\jgeau\Desktop\BatteryStatusWMI\BatteryStatusWMI\obj\x86\Release\BatteryStatusWMI.pdb

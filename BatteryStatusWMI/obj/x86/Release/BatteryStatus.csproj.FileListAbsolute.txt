@@ -1,0 +1,17 @@
+C:\Users\jgeau\Desktop\BatteryStatus\BatteryStatusWMI\obj\x86\Release\BatteryStatus.csprojResolveAssemblyReference.cache
+C:\Users\jgeau\Desktop\BatteryStatus\BatteryStatusWMI\obj\x86\Release\BatteryStatus.Form1.resources
+C:\Users\jgeau\Desktop\BatteryStatus\BatteryStatusWMI\obj\x86\Release\BatteryStatus.csproj.GenerateResource.Cache
+C:\Users\jgeau\Desktop\BatteryStatus\BatteryStatusWMI\bin\Release\BatteryStatus.exe
+C:\Users\jgeau\Desktop\BatteryStatus\BatteryStatusWMI\bin\Release\BatteryStatus.pdb
+C:\Users\jgeau\Desktop\BatteryStatus\BatteryStatusWMI\obj\x86\Release\BatteryStatus.Properties.Resources.resources
+C:\Users\jgeau\Desktop\BatteryStatus\BatteryStatusWMI\obj\x86\Release\BatteryStatus.exe
+C:\Users\jgeau\Desktop\BatteryStatus\BatteryStatusWMI\obj\x86\Release\BatteryStatus.pdb
+C:\Users\jgeat\Documents\GitHub\BatteryStatus\BatteryStatusWMI\obj\x86\Release\BatteryStatus.csprojResolveAssemblyReference.cache
+C:\Users\jgeat\Documents\GitHub\BatteryStatus\BatteryStatusWMI\obj\x86\Release\BatteryStatus.Form1.resources
+C:\Users\jgeat\Documents\GitHub\BatteryStatus\BatteryStatusWMI\obj\x86\Release\BatteryStatus.Properties.Resources.resources
+C:\Users\jgeat\Documents\GitHub\BatteryStatus\BatteryStatusWMI\obj\x86\Release\BatteryStatus.csproj.GenerateResource.Cache
+C:\Users\jgeat\Documents\GitHub\BatteryStatus\BatteryStatusWMI\obj\x86\Release\BatteryStatus.exe
+C:\Users\jgeat\Documents\GitHub\BatteryStatus\BatteryStatusWMI\obj\x86\Release\BatteryStatus.pdb
+C:\Users\jgeat\Documents\GitHub\BatteryStatus\BatteryStatusWMI\bin\Release\BatteryStatus.exe.config
+C:\Users\jgeat\Documents\GitHub\BatteryStatus\BatteryStatusWMI\bin\Release\BatteryStatus.exe
+C:\Users\jgeat\Documents\GitHub\BatteryStatus\BatteryStatusWMI\bin\Release\BatteryStatus.pdb
