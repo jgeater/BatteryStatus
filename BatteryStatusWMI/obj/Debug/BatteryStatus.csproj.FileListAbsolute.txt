@@ -1,0 +1,8 @@
+C:\Users\jgeau\Documents\GitHub\BatteryStatus\BatteryStatusWMI\bin\Debug\BatteryStatus.exe.config
+C:\Users\jgeau\Documents\GitHub\BatteryStatus\BatteryStatusWMI\bin\Debug\BatteryStatus.exe
+C:\Users\jgeau\Documents\GitHub\BatteryStatus\BatteryStatusWMI\bin\Debug\BatteryStatus.pdb
+C:\Users\jgeau\Documents\GitHub\BatteryStatus\BatteryStatusWMI\obj\Debug\BatteryStatus.Form1.resources
+C:\Users\jgeau\Documents\GitHub\BatteryStatus\BatteryStatusWMI\obj\Debug\BatteryStatus.Properties.Resources.resources
+C:\Users\jgeau\Documents\GitHub\BatteryStatus\BatteryStatusWMI\obj\Debug\BatteryStatus.csproj.GenerateResource.Cache
+C:\Users\jgeau\Documents\GitHub\BatteryStatus\BatteryStatusWMI\obj\Debug\BatteryStatus.exe
+C:\Users\jgeau\Documents\GitHub\BatteryStatus\BatteryStatusWMI\obj\Debug\BatteryStatus.pdb
